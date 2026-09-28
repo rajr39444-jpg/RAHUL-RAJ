@@ -1,0 +1,6 @@
+{
+  "name": "Geo-Spatial Health Intelligence Dashboard – India",
+  "description": "District-level public health analytics, Star Schema data modeling, benchmark comparisons, and Market Opportunity Index for pharmaceutical management decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
